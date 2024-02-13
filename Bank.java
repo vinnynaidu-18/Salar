@@ -9,4 +9,7 @@ public class Bank {
 
         return "futurebranch2";
     }
+    public  String bank(){
+        return "bank";
+    }
 }
