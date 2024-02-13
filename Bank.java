@@ -4,6 +4,7 @@ public class Bank {
 
 
     }
+    String bank="sbi";
 
     public String futurebranch2(){
 
