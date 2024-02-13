@@ -4,4 +4,13 @@ public class Bank {
 
 
     }
+    String bank="sbi";
+
+    public String futurebranch2(){
+
+        return "futurebranch2";
+    }
+    public  String bank(){
+        return "bank";
+    }
 }
